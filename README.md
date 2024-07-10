@@ -81,6 +81,7 @@ To generate an image from a text prompt, use the `generate_text_to_image` or `in
     ```
 
 ## Directory Structure
+```
 text-to-image-stable-diffusion/
 ├── images/        (Directory) - Stores generated images.
 ├── utils/         (Directory) - Contains utility functions.
@@ -89,6 +90,7 @@ text-to-image-stable-diffusion/
 ├── test_gradio.py  (Script) - Script for building a Gradio interface (optional).
 ├── requirements.txt (File) - Lists the required Python dependencies.
 └── README.md       (File) - This file (you are reading it now!).
+```
 
 ## Configuration
 
